@@ -1,4 +1,5 @@
 ## Setup Inicial
+
 No hay repo para este workshop! Vamos a hacer este desde cero.
 
 Creemos nuestros archivos para testear con testem. Empeza haciendo un nuevo directorio dentro de tu carpeta de Plataforma 5 llamado ´sorting´. Luego, ´cd´ a ese directorio, inicializa un repo de git y crea tus archivos iniciales.
